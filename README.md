@@ -33,11 +33,9 @@
 ## 🧠 LeetCode Profilim
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-MoQa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MoQa/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MoQa)
 
-- **Kullanıcı Adı:** MoQa
-- **Sıralama:** ~5,000,000
-- **Çözülen Sorular:** 1
-- **Yetenekler:** Hash Table, Math, String
+
 
 ---
 
