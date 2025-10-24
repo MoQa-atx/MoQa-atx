@@ -26,13 +26,12 @@
 
 ## 📈 GitHub İstatistiklerim
 
-![Ömer'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Ömer'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MoQa-atx&show_icons=true&theme=radical)
 
 ---
 
-## 🧠 LeetCode Profilim
+## 🧠 LeetCode İstatistiklerim
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-MoQa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MoQa/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MoQa)
 
 
