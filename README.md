@@ -40,7 +40,7 @@
 ## 📫 İletişim
 
 - 📧 Email: omerersuva1@outlook.com  
-- 🌐 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
+- 🌐 LinkedIn: [linkedin.com/in/ömer-erşuva](https://linkedin.com/in/ömer-erşuva)  
 - 💬 Discord: `moqa.`  
 
 ---
