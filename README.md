@@ -8,9 +8,8 @@
 
 ## 🚀 Hakkımda
 
-![Ömer'in GIF'i](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-- İstanbul Medeniyet Üniversitesinde bilgisayar mühendisliği öğrencisiyim.  
+- İstanbul Medeniyet Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim.  
 - Öğrendiğim konuları projelerimle pekiştiriyorum.  
 - Yeni teknolojilere ve yazılım geliştirmeye meraklıyım.  
 
