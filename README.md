@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Ömer Ersuva
+# 👋 Merhaba, ben Ömer Erşuva
 
 🎓 Bilgisayar Mühendisliği 1. Sınıf Öğrencisi  
 💻 Kod yazmayı ve yeni teknolojileri keşfetmeyi seviyorum  
