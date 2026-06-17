@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="watermarked_img_14978171239745662130.png" alt="Ömer Erşuva Profile Banner" width="100%">
-</p>
+<img width="1920" height="1080" alt="1403381" src="https://github.com/user-attachments/assets/879f016b-358c-4ed7-bfc0-b951d6e9fd44" />
 
 # Hello, I'm Ömer Erşuva
 
