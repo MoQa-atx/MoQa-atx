@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="1403381" src="https://github.com/user-attachments/assets/879f016b-358c-4ed7-bfc0-b951d6e9fd44" />
+<img width="1920" height="1080" alt="vakhtangi-tskhadaia-blenderslayer-library-final-render-1-after-edit" src="https://github.com/user-attachments/assets/7add6044-ecde-415b-88cb-cda18b8dd7b7" />
+
 
 # Hello, I'm Ömer Erşuva
 
