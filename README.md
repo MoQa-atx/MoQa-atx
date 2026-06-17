@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 Skills & Stack
+###  Skills & Stack
 
 ![C Badge](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-### 📈 Metrics & Activity
+###  Metrics & Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MoQa-atx&show_icons=true&theme=radical" alt="Ömer's GitHub Stats" height="150">
@@ -27,7 +27,7 @@
 
 ---
 
-### ✉️ Get in Touch
+###  Get in Touch
 
 * **Email:** omerersuva1@outlook.com  
 * **LinkedIn:** [linkedin.com/in/ömererşuva](https://www.linkedin.com/in/%C3%B6mer-er%C5%9Fuva-8a9466388/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
