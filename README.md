@@ -1,48 +1,27 @@
-# 👋 Merhaba, ben Ömer Erşuva
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Ömer Erşuva Profile Banner" width="100%">
+</p>
 
-🎓 Bilgisayar Mühendisliği 1. Sınıf Öğrencisi  
-💻 Kod yazmayı ve yeni teknolojileri keşfetmeyi seviyorum  
-🌱 Şu anda öğrendiklerim: C, Git, GitHub  , Python
+Hello, I am Ömer Erşuva. I am a first-year Computer Engineering student at Istanbul Medeniyet University. I love coding, exploring new technologies, and I am highly passionate about software development. I constantly reinforce the topics I learn by building practical projects. Currently, I am expanding my skills in C, Git, GitHub, and Python.
 
----
-
-## 🚀 Hakkımda
-
-
-- İstanbul Medeniyet Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim.  
-- Öğrendiğim konuları projelerimle pekiştiriyorum.  
-- Yeni teknolojilere ve yazılım geliştirmeye meraklıyım.  
-
----
-
-## 💻 Yetenekler
+Skills
 
 ![C Badge](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+My GitHub Stats
 
-## 📈 GitHub İstatistiklerim
+![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoQa-atx&show_icons=true&theme=radical)
 
-![Ömer'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MoQa-atx&show_icons=true&theme=radical)
-
----
-
-## 🧠 LeetCode İstatistiklerim
+My LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MoQa)
 
+Contact
 
-
----
-
-## 📫 İletişim
-
-- 📧 Email: omerersuva1@outlook.com  
-- 🌐 LinkedIn: [linkedin.com/in/ömererşuva/](https://www.linkedin.com/in/%C3%B6mer-er%C5%9Fuva-8a9466388/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 💬 Discord: `moqa.`  
-
----
-
-
+Email: omerersuva1@outlook.com  
+LinkedIn: [linkedin.com/in/ömererşuva/](https://www.linkedin.com/in/%C3%B6mer-er%C5%9Fuva-8a9466388/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+Discord: `moqa.`
